@@ -4,16 +4,16 @@
 	branch = migros-atc-2021
 [submodule "criu"]
 	path = criu
-	url = https://github.com/planetA/criu.git
-	branch = migros-atc-2021
+	url = https://github.com/Sinclair19/criu.git
+	branch = migros-atc-2021-fix
 [submodule "rdma-core"]
 	path = rdma-core
 	url = https://github.com/planetA/rdma-core.git
 	branch = migros-atc-2021
 [submodule "perftest"]
 	path = perftest
-	url = https://github.com/planetA/perftest.git
-	branch = migros-atc-2021
+	url = https://github.com/Sinclair19/perftest.git
+	branch = migros-atc-2021-fix
 [submodule "rxe-fix-races"]
 	path = rxe-fix-races
 	url = https://github.com/planetA/linux.git
